@@ -63,6 +63,102 @@ This portfolio is organized into folders representing key domains of machine lea
 
 Clone the repository and explore the folders:  
 
-```bash
-git clone https://github.com/<your-username>/Machine_Learning_Portfolio.git
-cd Machine_Learning_Portfolio
+````bash
+Machine_Learning_Portfolio/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── 01_supervised_learning/
+│   ├── README.md
+│   ├── linear_regression/
+│   │   ├── linear_regression.ipynb
+│   │   └── dataset.csv
+│   ├── logistic_regression/
+│   │   ├── logistic_regression.ipynb
+│   │   └── dataset.csv
+│   └── decision_trees_random_forest/
+│       ├── tree_models.ipynb
+│       └── dataset.csv
+│
+├── 02_classification_and_nlp/
+│   ├── README.md
+│   ├── text_preprocessing/
+│   │   ├── text_cleaning.ipynb
+│   │   └── sample_texts.txt
+│   ├── sentiment_analysis/
+│   │   ├── sentiment_analysis.ipynb
+│   │   └── tweets.csv
+│   └── spam_detection/
+│       ├── spam_classifier.ipynb
+│       └── sms_data.csv
+│
+├── 03_unsupervised_learning/
+│   ├── README.md
+│   ├── clustering/
+│   │   ├── kmeans_clustering.ipynb
+│   │   └── customers.csv
+│   ├── dimensionality_reduction/
+│   │   ├── pca_analysis.ipynb
+│   │   └── features.csv
+│   └── anomaly_detection/
+│       ├── isolation_forest.ipynb
+│       └── transactions.csv
+│
+├── 04_model_evaluation_and_optimization/
+│   ├── README.md
+│   ├── cross_validation/
+│   │   ├── kfold_cv.ipynb
+│   │   └── model_results.csv
+│   ├── hyperparameter_tuning/
+│   │   ├── grid_search.ipynb
+│   │   └── tuning_report.csv
+│   └── metrics_visualization/
+│       ├── confusion_matrix.ipynb
+│       └── roc_curve.ipynb
+│
+├── 05_integrated_projects/
+│   ├── README.md
+│   ├── housing_price_prediction/
+│   │   ├── project_notebook.ipynb
+│   │   ├── data/
+│   │   │   └── housing.csv
+│   │   └── model/
+│   │       └── model.pkl
+│   ├── customer_segmentation/
+│   │   ├── segmentation_pipeline.ipynb
+│   │   └── customers.csv
+│   └── text_classification_app/
+│       ├── nlp_app.ipynb
+│       └── app/
+│           ├── app.py
+│           └── requirements.txt
+│
+├── 06_code_challenges/
+│   ├── README.md
+│   ├── regression_challenges/
+│   │   └── linear_regression_code_challenge.ipynb
+│   ├── classification_challenges/
+│   │   └── credit_score_classifier.ipynb
+│   └── clustering_challenges/
+│       └── kmeans_practice.ipynb
+│
+├── 07_deep_learning_basics/
+│   ├── README.md
+│   ├── neural_networks/
+│   │   ├── perceptron_intro.ipynb
+│   │   └── dataset.csv
+│   ├── cnn_image_classification/
+│   │   ├── cnn_model.ipynb
+│   │   └── images/
+│   └── rnn_text_generation/
+│       ├── text_generation.ipynb
+│       └── text_data.txt
+│
+└── assets/
+    ├── images/
+    │   └── model_diagram.png
+    └── notebooks_preview/
+        └── thumbnails.png
+
