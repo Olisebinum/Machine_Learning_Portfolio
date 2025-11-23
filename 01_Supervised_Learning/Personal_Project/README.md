@@ -146,7 +146,3 @@ jupyter notebook supervised_learning_project.ipynb
 ```
 
 ---
-
-## 📌 Notes
-
-- This README is **fully recruiter-friendly**, showcasing skills, workflows, and hands-on ML experience.
