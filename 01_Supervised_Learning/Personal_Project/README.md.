@@ -1,1 +1,64 @@
+# 🎯 Supervised Learning Personal Project
+
+This is my **end-to-end supervised learning regression project**, covering the full ML workflow from simple linear regression to ensemble methods.
+
+---
+
+## 📁 Project Structure
+
+```
+Personal_Project/
+│
+├── notebooks/
+│   └── supervised_learning_project.ipynb
+├── data/
+├── models/
+├── visuals/
+└── README.md
+```
+
+---
+
+## 🧠 Concepts Covered
+
+- Introduction to Machine Learning  
+- Exploratory Data Analysis (EDA)  
+- Simple Linear Regression  
+- Multiple Linear Regression  
+- Model Performance Metrics  
+- Variable Selection  
+- Regularisation (Ridge, Lasso, ElasticNet)  
+- Decision Trees  
+- Ensemble Methods (Bagging, Random Forest)  
+- Bootstrapping  
+- Model Saving & Deployment  
+
+---
+
+## 🛠️ Tools & Libraries
+
+- Python  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Scikit-Learn  
+- Statsmodels  
+- Joblib  
+- Jupyter Notebook  
+
+---
+
+## 🚀 How to Run
+
+```bash
+cd Machine_Learning_Portfolio/01_Supervised_Learning/Personal_Project/notebooks
+jupyter notebook supervised_learning_project.ipynb
+```
+
+---
+
+## 📊 Sprint Feedback (Reflection)
+
+- What I learned  
+- Challenges I faced  
+- What I want to improve next
 
