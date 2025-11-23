@@ -40,7 +40,6 @@ This project highlights my ability to **translate data into actionable insights*
 - 📊 **visuals/** → Charts, plots, and visualizations  
 - 🖼️ **assets/images/** → Banner and notebook preview GIF *(currently placeholders)*  
 
-> ✅ Fully functional README without requiring actual images yet.
 
 ---
 
@@ -70,11 +69,6 @@ This project highlights my ability to **translate data into actionable insights*
 
 ---
 
-## 🎥 Notebook Preview
-
-![Notebook Preview Placeholder](assets/images/notebook_preview_placeholder.gif)  
-
-> *Replace with your actual GIF or screenshots of notebook outputs once ready.*
 
 ---
 
@@ -111,8 +105,7 @@ jupyter notebook supervised_learning_project.ipynb
 ---
 
 ## 💡 Notes
-
-- All placeholders work without images; replace them when ready.  
+ 
 - This README is **fully recruiter-friendly**: clear, visual, and easy to scan.  
 - Highlights **hands-on ML skills, model evaluation experience, and practical deployment awareness**.  
 - Designed to **showcase both technical expertise and professional thinking** in a single glance.
@@ -127,15 +120,6 @@ jupyter notebook supervised_learning_project.ipynb
 | Random Forest Regressor | — | — | Best generalisation |
 
 ---
-
-## 🎥 Notebook Preview
-
-> *Notebook preview will appear here once GIF/screenshots are added.*  
-> For now, you can replace this placeholder with your actual file later.
-
-```
-[ Notebook Preview Placeholder ]
-```
 
 ---
 
@@ -165,6 +149,4 @@ jupyter notebook supervised_learning_project.ipynb
 
 ## 📌 Notes
 
-- No images are required to render this README.  
-- Once you have **banner.png** or **notebook_preview.gif**, save them to `assets/images/` and update paths if needed.  
 - This README is **fully recruiter-friendly**, showcasing skills, workflows, and hands-on ML experience.
