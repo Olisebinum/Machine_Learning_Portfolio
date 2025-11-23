@@ -1,5 +1,7 @@
 # 🎯 Supervised Learning Personal Project
 
+![Banner Placeholder](assets/images/banner_placeholder.png)
+
 ---
 
 ## 📘 Project Overview
@@ -36,9 +38,9 @@ This project highlights my ability to **translate data into actionable insights*
 - 📂 **data/** → Dataset(s) used in the project  
 - 🗂️ **models/** → Trained model files (`.pkl` / `.joblib`)  
 - 📊 **visuals/** → Charts, plots, and visualizations  
-- 🖼️ **assets/images/** → Banner and notebook preview GIF *(currently placeholder)*  
+- 🖼️ **assets/images/** → Banner and notebook preview GIF *(currently placeholders)*  
 
-> ✅ All paths are relative, so this README works even if images are not yet uploaded.
+> ✅ Fully functional README without requiring actual images yet.
 
 ---
 
@@ -56,6 +58,64 @@ This project highlights my ability to **translate data into actionable insights*
 ---
 
 ## 📈 Model Performance Comparison
+
+| Model | RMSE | R² | Notes |
+|-------|------|----|-------|
+| Linear Regression | — | — | Baseline model |
+| Multiple Linear Regression | — | — | Full feature regression |
+| Ridge / Lasso | — | — | Regularisation applied |
+| Decision Tree | — | — | May overfit small datasets |
+| Bagging Regressor | — | — | Reduces variance |
+| Random Forest Regressor | — | — | Best generalisation |
+
+---
+
+## 🎥 Notebook Preview
+
+![Notebook Preview Placeholder](assets/images/notebook_preview_placeholder.gif)  
+
+> *Replace with your actual GIF or screenshots of notebook outputs once ready.*
+
+---
+
+## 📌 Key Takeaways & Insights
+
+This project reflects **my hands-on expertise in supervised learning**, and here’s what makes it stand out:
+
+- **End-to-End Workflow Mastery:** Designed a complete pipeline from **data cleaning → feature engineering → model building → evaluation → deployment readiness**.  
+- **Applied Problem-Solving:** Tackled regression tasks using multiple algorithms, including **Linear Regression, Ridge/Lasso, Decision Trees, and Random Forests**, adapting approaches based on data characteristics.  
+- **Performance Optimization:** Used **feature selection, regularisation, and ensemble methods** to enhance model accuracy while preventing overfitting.  
+- **Analytical Thinking:** Performed rigorous **model evaluation and diagnostics**, interpreting RMSE, R², and residuals to ensure robust predictions.  
+- **Practical Deployment Awareness:** Learned to **save and reload models**, making workflows production-ready and shareable.  
+- **Visual Communication:** Created meaningful **charts, plots, and visualizations** to make insights immediately actionable.  
+- **Recruiter-Ready Skills Showcase:** Demonstrates **Python, pandas, scikit-learn, Matplotlib, Seaborn, Jupyter, and Git/GitHub** competency—essential for data science and ML roles.  
+- **Next-Level Learning Mindset:** Sets a foundation for **advanced techniques** like Gradient Boosting, XGBoost, and end-to-end production pipelines.
+
+> 🚀 **Bottom line:** This project proves my ability to **solve real-world problems with data**, communicate insights effectively, and deliver production-ready machine learning solutions.
+
+---
+
+## 🚀 How to Run
+
+```bash
+# Clone the repository
+git clone https://github.com/<your-username>/Machine_Learning_Portfolio.git
+
+# Navigate to project folder
+cd Machine_Learning_Portfolio/01_Supervised_Learning/Personal_Project/notebooks
+
+# Launch Jupyter Notebook
+jupyter notebook supervised_learning_project.ipynb
+```
+
+---
+
+## 💡 Notes
+
+- All placeholders work without images; replace them when ready.  
+- This README is **fully recruiter-friendly**: clear, visual, and easy to scan.  
+- Highlights **hands-on ML skills, model evaluation experience, and practical deployment awareness**.  
+- Designed to **showcase both technical expertise and professional thinking** in a single glance.
 
 | Model | RMSE | R² | Notes |
 |-------|------|----|-------|
