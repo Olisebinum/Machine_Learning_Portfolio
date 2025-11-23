@@ -1,39 +1,44 @@
-# 🎯 Supervised Learning Personal Project  
+# 🎯 Supervised Learning Personal Project
 
-A curated **end-to-end supervised learning project** demonstrating hands-on implementation of regression models, ensemble methods, and model evaluation.  
+![Supervised Learning Banner](../assets/images/banner.png)
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F3740E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
 ## 📘 Overview  
 
-This project showcases my practical experience with **supervised learning concepts**, from simple linear regression to ensemble techniques like random forests.  
-It demonstrates the complete machine learning workflow: **data preprocessing, exploratory data analysis, model building, evaluation, and deployment**.  
-The project simulates real-world predictive modeling for regression tasks.
+This personal project demonstrates a **complete end-to-end supervised learning workflow**, focusing on regression tasks.  
+It covers everything from **data preprocessing, exploratory data analysis, and model building**, to **evaluation, regularisation, ensemble learning, and deployment**.  
+
+The project simulates a real-world predictive modeling pipeline and highlights practical machine learning skills.
 
 ---
 
 ## 🧰 Tools & Technologies  
 
 - **Python** 🐍  
-- **Scikit-learn** — Core regression and ensemble algorithms, model evaluation  
-- **Pandas** & **NumPy** — Data preprocessing and manipulation  
+- **Scikit-learn** — Regression, Decision Trees, Random Forests  
+- **Pandas** & **NumPy** — Data manipulation and preprocessing  
 - **Matplotlib** & **Seaborn** — Data visualization  
 - **Statsmodels** — Regression diagnostics and statistical analysis  
-- **Joblib / Pickle** — Model saving and persistence  
-- **Jupyter Notebook** — Interactive development and experimentation  
-- **Git & GitHub** — Version control and portfolio tracking  
+- **Joblib / Pickle** — Model persistence  
+- **Jupyter Notebook** — Interactive experimentation  
+- **Git & GitHub** — Version control  
 
 ---
 
-## 📂 Repository Structure  
+## 📂 Project Structure  
 
-This project is organized into folders for clarity and reproducibility:
-
-- **notebooks/** — Jupyter Notebook with full supervised learning workflow (`supervised_learning_project.ipynb`)  
-- **data/** — CSV dataset(s) used for modeling  
-- **models/** — Saved trained models (`.pkl` / `.joblib`)  
-- **visuals/** — Plots, charts, and visualizations  
-- **assets/images/** — Banner and notebook preview GIF  
+- 📓 **notebooks/** → `supervised_learning_project.ipynb` (Full ML workflow)  
+- 📂 **data/** → CSV dataset(s) used for modeling  
+- 🗂️ **models/** → Saved models (`.pkl` / `.joblib`)  
+- 📊 **visuals/** → Plots, charts, and visualizations  
+- 🖼️ **assets/images/** → Banner and notebook preview GIF  
 
 ---
 
@@ -41,12 +46,12 @@ This project is organized into folders for clarity and reproducibility:
 
 | Workflow | Description | Key Skills |
 |----------|-------------|------------|
-| **Simple Linear Regression** | Built and evaluated a linear regression model to predict target variable | Feature Engineering, Model Evaluation |
-| **Multiple Linear Regression** | Applied regression with multiple features and assessed assumptions | Multicollinearity, Linearity Checks, R² Analysis |
-| **Regularisation (Ridge, Lasso)** | Used Ridge and Lasso to prevent overfitting | Regularisation, Hyperparameter Tuning |
-| **Decision Tree Regression** | Built interpretable tree models and visualized decision paths | Decision Tree, Overfitting Analysis |
-| **Ensemble Methods (Bagging, Random Forest)** | Combined multiple models to improve prediction accuracy | Ensemble Learning, Bootstrapping, Model Comparison |
-| **Model Saving & Deployment** | Saved trained models for reuse without retraining | Joblib, Pickle, Deployment Readiness |
+| **Simple Linear Regression** | Predict target variable with one feature | Feature Engineering, Model Evaluation |
+| **Multiple Linear Regression** | Regression with multiple features and diagnostics | Multicollinearity, R² Analysis |
+| **Regularisation (Ridge, Lasso)** | Prevent overfitting using regularisation | Ridge, Lasso, Hyperparameter Tuning |
+| **Decision Tree Regression** | Build interpretable tree models | Decision Tree, Overfitting Analysis |
+| **Ensemble Methods** | Bagging & Random Forest to improve prediction | Ensemble Learning, Bootstrapping |
+| **Model Saving & Deployment** | Save trained models for reuse | Joblib, Pickle |
 
 ---
 
@@ -55,7 +60,31 @@ This project is organized into folders for clarity and reproducibility:
 | Model | RMSE | R² | Notes |
 |-------|------|----|-------|
 | Linear Regression | — | — | Baseline model |
-| Multiple Linear Regression | — | — | Uses all features |
+| Multiple Linear Regression | — | — | Uses multiple features |
+| Ridge / Lasso | — | — | Regularisation applied |
+| Decision Tree | — | — | May overfit small data |
+| Bagging Regressor | — | — | Reduces variance |
+| Random Forest Regressor | — | — | Best generalisation |
+
+---
+
+## 🎥 Notebook Preview
+
+![Notebook Preview GIF](../assets/images/notebook_preview.gif)  
+*(Replace with your actual GIF or screenshots of notebook outputs)*
+
+---
+
+## 💡 Insights & Reflection
+
+- Learned to implement **end-to-end supervised learning workflow**  
+- Applied **feature selection, regularisation, and ensemble techniques**  
+- Experienced **hyperparameter tuning, performance evaluation, and model saving**  
+- Next steps: Explore **Gradient Boosting, XGBoost, and deployment pipelines**  
+
+---
+
+![Portfolio Badge](https://img.shields.io/badge/Machine-Learning-Portfolio-4BCFFA?style=for-the-badge&logo=github&logoColor=white)
 | Ridge / Lasso | — | — | Regularisation applied |
 | Decision Tree | — | — | May overfit small data |
 | Bagging Regressor | — | — | Reduces variance |
