@@ -117,7 +117,7 @@ These metrics are used to assess model performance and ensure robustness, especi
 
 ## 📬 Contact
 
-**Williams**
+**Olise Ebinum**
 Aspiring Data Scientist | Data Analyst
 LinkedIn: [https://www.linkedin.com/in/olisebinum/](https://www.linkedin.com/in/olisebinum/)
 
